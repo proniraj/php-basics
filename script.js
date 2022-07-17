@@ -1,0 +1,3 @@
+const deleteData = () =>{
+    alert("jnskd")
+}
